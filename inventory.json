@@ -1,0 +1,68 @@
+
+{
+  "3d_printer" : {
+    "en" : "3D Printer",
+    "el" : "Τρισδιάστατος εκτυπωτής",
+    "count" : 1
+  },
+  "arduino_uno" : {
+    "en" : "Arduino UNOs blinking LEDs",
+    "el" : "Arduino UNO που αναβοσβήνουν LEDάκια",
+    "count" : 3
+  },
+  "chair" : {
+    "en" : "Chairs with or without humans",
+    "el" : "Καρέκλες με ή χωρίς ανθρώπους",
+    "count" : 40
+  },
+  "dot_matrix_clock" : {
+    "en" : "Hand-soldered dot matrix clock showing you that the world is burning",
+    "el" : "Δια χειρός κολλημένο ρολόι dor matrix που σου δείχνει ότι ο κόσμος καίγεται",
+    "count" : 1
+  },
+  "esp8266" : {
+    "en" : "ESP8266 DOSing the WiFi",
+    "el" : "ESP8266 που DOSάρει το γουίφι",
+    "count" : 1
+  },
+  "hackers" : {
+    "en" : "HaX0rs",
+    "el" : "Χακεράδες",
+    "count" : "NaN"
+  },
+  "ic" : {
+    "en" : "ICs flying around",
+    "el" : "Ολοκληρωμένα που πετάνε στον αέρα",
+    "count" : 1
+  },
+  "pc" : {
+    "en" : "PCs building a leaning tower",
+    "el" : "ΠιΣιά σε στοίβα που γέρνει",
+    "count" : 13
+  },
+  "projector" : {
+    "en" : "Projector",
+    "el" : "Προτζέκτορας",
+    "count" : 1
+  },
+  "screen" : {
+    "en" : "Monitor",
+    "el" : "Οθόνες",
+    "count" : 7
+  },
+  "soldering_iron" : {
+    "en" : "Soldering Irons",
+    "el" : "Κολλητήρια",
+    "count" : 3
+  },
+  "weather_box" : {
+    "en" : "Leaking box that contains weather phenomena",
+    "el" : "Κουτί μετεορολογικών φαινομένων με διαρροή",
+    "count" : 1
+  },
+  "whiteboard" : {
+    "en" : "Whiteboards of multiple sizes",
+    "el" : "Ασπροπίνακες διαφόρων μεγεθών",
+    "count" : 5
+  }
+}
